@@ -1,0 +1,16 @@
+
+Package: com.missile.repolist
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Missile
+Installed-Size: 
+Depends: 
+Filename: ./debs/com.missile.repolist_1.0~iOS14.3_iphoneos-arm.deb
+Size: 1372
+MD5sum: bc9c603c70bc3af1450f9c15c8d6c82e
+SHA1: c7a7f5e61cc615d882c8c5014ab12c823a347277
+SHA256: d4fd8fefa179f50c7d32e8feffb73e01b3d5df97be11dc0b93eac60404c487fc
+Section: System
+Description: List of personal jailbreak repositories
+Author: Missile
+Name: MissileRepoList
