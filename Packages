@@ -7,9 +7,9 @@ Installed-Size:
 Depends: 
 Filename: ./debs/com.missile.repolist_1.0~iOS14.3_iphoneos-arm.deb
 Size: 1136
-MD5sum: ea535ae9f9f23ee9d133bb4259044150
-SHA1: 97d7827cae324a1113778ad3cdf15df358d0b268
-SHA256: dada2d278f5dbfea0eb262e0f552f93b150e68d26170e71c21109e23029b2095
+MD5sum: a6b1298cb8b54d4853c591283d12b9fb
+SHA1: 752b169ddd8090ba7cac196b33623c334c40ece2
+SHA256: d8ce7b27ae7f38b8a340202bb5da68460ca395759fead4a1db3694a27aaafcdc
 Section: System
 Description: List of personal jailbreak repositories
 Author: Missile
