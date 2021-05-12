@@ -6,27 +6,11 @@ Maintainer: Missile
 Installed-Size: 
 Depends: 
 Filename: ./debs/com.missile.repolist_1.0~iOS14.3_iphoneos-arm.deb
-Size: 1372
-MD5sum: bc9c603c70bc3af1450f9c15c8d6c82e
-SHA1: c7a7f5e61cc615d882c8c5014ab12c823a347277
-SHA256: d4fd8fefa179f50c7d32e8feffb73e01b3d5df97be11dc0b93eac60404c487fc
+Size: 1144
+MD5sum: 3846acd6e4f5ece631e9fd90b07bbbcd
+SHA1: fb3148c00766d22afbfa726618f5046861efb019
+SHA256: 9a2a492104552c0bba6cbf16a220efb6cd6ac26f126cf991f600f0348de25702
 Section: System
 Description: List of personal jailbreak repositories
 Author: Missile
 Name: MissileRepoList
-
-Package: com.missile.repolist-s
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Missile
-Installed-Size: 
-Depends: 
-Filename: ./debs/com.missile.repolist-sileo_1.0~iOS14.3_iphoneos-arm.deb
-Size: 1332
-MD5sum: 6e05b0a3ef391da501bb51abbe331acd
-SHA1: 89aaf0b19fcfe1b8aad4ab0edb79f1bb6a371fde
-SHA256: 46deceedebfb8fbb9f3c1350a8016174e1bb8506e9fc0596ab3dd68407427303
-Section: System
-Description: List of personal jailbreak repositories
-Author: Missile
-Name: MissileRepoList (Sileo)
