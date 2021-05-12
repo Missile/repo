@@ -15,7 +15,7 @@ Description: List of personal jailbreak repositories
 Author: Missile
 Name: MissileRepoList
 
-Package: com.missile.repolist
+Package: com.missile.repolist-s
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Missile
@@ -29,4 +29,4 @@ SHA256: 51fd6c226e7cf0db6f16d2f2b51a3ce56a6954c197c2f8ec5cbdf6bdca4e9360
 Section: System
 Description: List of personal jailbreak repositories
 Author: Missile
-Name: MissileRepoList
+Name: MissileRepoList (Sileo)
