@@ -21,7 +21,7 @@ Architecture: iphoneos-arm
 Maintainer: Missile
 Installed-Size: 
 Depends: 
-Filename: /com.missile.repolist_1.0.1~iOS14.3_iphoneos-arm.deb
+Filename: ./debs/com.missile.repolist_1.0.1~iOS14.3_iphoneos-arm.deb
 Size: 1192
 MD5sum: aace053c2da4452239b74b920d10d4f3
 SHA1: 3f7fdb6880985a8c2f7149317b45fe1c0ad52a40
