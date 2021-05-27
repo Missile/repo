@@ -30,3 +30,79 @@ Section: System
 Description: List of personal jailbreak repositories
 Author: Missile
 Name: MissileRepoList
+
+Package: org.coolstar.libhooker
+Version: 1.5.0
+Architecture: iphoneos-arm
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: firmware (>= 11.0), cy+cpu.arm64, org.coolstar.safemode
+Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
+Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
+Filename: ./debs/org.coolstar.libhooker_1.5.0_iphoneos-arm.deb
+Size: 48960
+MD5sum: b7ab11f74c1bbc5c8025a3f9dbe638be
+SHA1: d6bf3768011bb5e67913f8eaa6e00663ad7a0fb2
+SHA256: ade151438dcee7e2400b3854632b976536eea28c48253f2f496ebd4c2731e25e
+Section: System
+Description: General Purpose Injection and Hooking library for 64-bit devices
+Author: CoolStar <coolstarorganization@gmail.com>
+Icon: https://repo.theodyssey.dev/depictions/icons/libhooker.png
+Name: libhooker
+Sileodepiction: https://repo.theodyssey.dev/depictions/json/libhooker.json
+
+Package: org.coolstar.libhooker
+Version: 1.5.1
+Architecture: iphoneos-arm
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: firmware (>= 11.0), cy+cpu.arm64, org.coolstar.safemode
+Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
+Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
+Filename: ./debs/org.coolstar.libhooker_1.5.1_iphoneos-arm.deb
+Size: 48368
+MD5sum: 66e9da65be7b8b3f367a0e83f1967600
+SHA1: 9f785de257b7fcf5c9eed13aa18806dc7b54541a
+SHA256: 4d007f42866db437afc019295b4a6afab73c6e0093da5188018fddf9fbc73f66
+Section: System
+Description: General Purpose Injection and Hooking library for 64-bit devices
+Author: CoolStar <coolstarorganization@gmail.com>
+Icon: https://repo.theodyssey.dev/depictions/icons/libhooker.png
+Name: libhooker
+Sileodepiction: https://repo.theodyssey.dev/depictions/json/libhooker.json
+
+Package: org.coolstar.libhooker
+Version: 1.5.2
+Architecture: iphoneos-arm
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: firmware (>= 11.0), cy+cpu.arm64, org.coolstar.safemode
+Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
+Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
+Filename: ./debs/org.coolstar.libhooker_1.5.2_iphoneos-arm.deb
+Size: 48472
+MD5sum: 7a4f6fa9024ae0fc50cdf5baf8dd88bc
+SHA1: cde7cbcd3b5a00513c4288624d5725cada3a0432
+SHA256: c7c54fa93dd3eb25cb50925a4859a382c5b0b2218477e68390ecb8d39973f3df
+Section: System
+Description: General Purpose Injection and Hooking library for 64-bit devices
+Author: CoolStar <coolstarorganization@gmail.com>
+Icon: https://repo.theodyssey.dev/depictions/icons/libhooker.png
+Name: libhooker
+Sileodepiction: https://repo.theodyssey.dev/depictions/json/libhooker.json
+
+Package: org.coolstar.libhooker
+Version: 1.5.5
+Architecture: iphoneos-arm
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: firmware (>= 11.0), cy+cpu.arm64, org.coolstar.safemode
+Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
+Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
+Filename: ./debs/org.coolstar.libhooker_1.5.5_iphoneos-arm.deb
+Size: 50548
+MD5sum: b5bc1fd51b7bd217146f8ec8ced8b0f2
+SHA1: e093d958814ebe2520b1bc53038cbcf032c5dafe
+SHA256: d462bd3437af6ec55971693c29ac945d7aca7bc80837462ef5569c5fdcdce6d6
+Section: System
+Description: General Purpose Injection and Hooking library for 64-bit devices
+Author: CoolStar <coolstarorganization@gmail.com>
+Icon: https://repo.theodyssey.dev/depictions/icons/libhooker.png
+Name: libhooker
+Sileodepiction: https://repo.theodyssey.dev/depictions/json/libhooker.json
